@@ -16,4 +16,4 @@ ERD for our Async-Inn.
 
 Join table is our RoomAmmenities. It joins a RoomID to AmmenitiesID.
 
-![image](AsyncInnERD.PNG)
+![image](AsyncInnERD.png)
